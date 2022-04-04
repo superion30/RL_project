@@ -7,7 +7,6 @@
 ## Epsilon - Greedy Algorithm
 
 #### The Epsilon-Greedy Algorithm makes use of the exploration-exploitation tradeoff by instructing the computer to:
-- explore (i.e. choose a random option with probability epsilon)
+- explore (i.e. choose a random option) with probability epsilon
 - exploit (i.e. choose the option which so far seems to be the best) the remainder of the time
-
 #### This combination, using the proper parameters for each problem, provides good results in the learning procedure.
